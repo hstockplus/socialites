@@ -1,6 +1,6 @@
-# Payment Gateway SDK
+# Socialites Payment Gateway: Fast & Simple Node.js SDK
 
-A simple and easy-to-use Node.js payment gateway SDK for quick integration of payment functionality.
+Effortlessly integrate payment functionality with Socialites Payment Gateway SDK – the lightweight Node.js solution designed for fast, seamless, and secure payment processing. Streamline your integration with our developer-friendly SDK and get started in minutes.
 
 ## Features
 
@@ -315,3 +315,4 @@ MIT
 ## Support
 
 For questions or suggestions, please contact technical support.
+
