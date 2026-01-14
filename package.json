@@ -1,0 +1,29 @@
+{
+  "name": "payment-gateway-sdk",
+  "version": "1.0.0",
+  "description": "Payment Gateway SDK for Node.js - Easy integration with payment gateway APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node examples/basic-usage.js"
+  },
+  "keywords": [
+    "payment",
+    "gateway",
+    "sdk",
+    "api",
+    "alipay",
+    "wechat",
+    "wxpay"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
+
